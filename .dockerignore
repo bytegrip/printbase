@@ -5,8 +5,8 @@
 **/.project
 **/.settings
 **/.toolstarget
-**/.vs
 **/.vscode
+**/.vs
 **/.idea
 **/*.*proj.user
 **/*.dbmdl
